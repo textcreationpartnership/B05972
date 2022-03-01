@@ -1,0 +1,263 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Men and brethren, it's like the most part of you come here to gaze and wonder ...</title>
+            <author>Stewart, A.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05972</idno>
+            <idno type="STC">Wing S5531</idno>
+            <idno type="STC">ESTC R184687</idno>
+            <idno type="EEBO-CITATION">52614965</idno>
+            <idno type="OCLC">ocm 52614965</idno>
+            <idno type="VID">176202</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05972)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176202)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2764:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Men and brethren, it's like the most part of you come here to gaze and wonder ...</title>
+                  <author>Stewart, A.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Alexander Kennedy,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first line of text.</note>
+                  <note>Imprint from colophon. Place of publication from Wing (2nd ed.).</note>
+                  <note>Imperfect: faded, with some loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Covenanters --  Persecutions --  Early works to 1800.</term>
+               <term>Scotland --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:176202:1"/>
+            <!-- PDF PAGE 83 -->
+            <opener>
+               <salute>Men and <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>thren,</salute>
+            </opener>
+            <p>IT's ſure the moſt p<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t of you come here to gaze and wonder, rather than to be <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dified; but I hope there are ſome here witneſſing and <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>zing with me; but while ye are ſtrangers to God, and h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Word, and what our Lord hath ſuffered for us, and that he hath told, throughout tribulation and affliction we muſt e<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er into the Kingdom of God: It's no wonder that we count us fool<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, for I was ſo while <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> nature: I was as mad as any of you againſt the Lord and <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, but bleſſed be his glorious and holy Name, while as I <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ind, now I ſee, and therefore abhors my ſelf in duſt and <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and the more to magnifie his free-grace that he hath do<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to me It's true, unpleaſant to ſenſe, while he is calling for h<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> mite of teſtimony from my hand for his deſpis'd truth, for it was by the hearing of the Goſpel, from his faithful ſuffering-Miniſters, that I was brought to the love of God, and the knowledge of his holy Son Jeſus Chriſt, ſince which time he hath engag'd my heart to ſeek him in the way I found him, and wherein he was moſt eminently holden forth, and witneſſed for my ſins, and the ſins of the <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d holden forth with my duty deſcribed, for which I am condemned, and for my following of the Goſpel preached i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he fields, and with that poor handful at <hi>Airs-Mos,</hi> wher<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Cameron</hi> had been preaching, and was to preach; becauſe whe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the bloody Soldiers come on us, we offered to defend ourſelves, and whatever cauſes they lay to our charge: and that you <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not miſtaken of me, and of the Lords people, though they alledge us to be of bloody principles, as ſome of the indulged Miniſters give it out; the Lord knows: I deſire to know his W<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll, and walk in it: I have been ſtudying that which all the Land are obliged to do, to hear and keep the Goſpel. Keep it, defend my own life and my brethren, who hath been
+<pb n="2" facs="tcp:176202:2"/>
+               <!-- PDF PAGE 84 -->ſo long hunted, and the Goſpel ſo long born down; though they give out, that I and the ſuffering-remnant would Kill the King, or any of the Council: It's an untruth, and forged Ca<g ref="char:EOLhyphen"/>lumny to reproach the way of God, more like themſelves and their own practices, who have killed ſo many of Gods People on Fields and Scaffolds: and all is to pleaſe that bloody Tyrant the DUKE, who has been thirſting for the blood of the Three Lands; who if they were brought to a Law, would be found to be the Plotters by a juſt Tryal<g ref="char:punc">▪</g> either according to the Law of God, or Law of the Land; moſt of them has done (as much as might take their Lives) againſt the good of the Land, and Laws of it. When I was before them in the Juſticiary, in tryal of my life, they would give no acceſs to explain my ſelf, but were as men, catching advantage, and cheat me out of my life; yet they muſt know, that they will anſwer to the great Judg what they do: And this being the teſtimony of a dying man, the fearers of God will believe my Declaration, before their Proclamation, which is clearly a Plot in them to blind the eyes of a ſecure generation, and cauſe ſtrangers to approve it as juſt their Actings, and laugh at our calamity, till they accompliſh their Popiſh deſigns againſt all thoſe who will not follow them in the Three Nations; and though they ſpare their Flatterers and Favourities, till they deſtroy the remnant, they dare not but wit<g ref="char:EOLhyphen"/>neſs againſt them, as they would be marked with mourners, and then a holy God ſhall take vengeance upon all ranks, forſaking his Chriſt, and betraying him, and ſetting up any in his place, which will be found to be the Idol of jealouſie, beſide others drawing away the generation from the true love we owe to God; and becauſe not only, but all lovers and fearers of God, deſiring to follow this ſweet Chriſt, are reproached and wounded with the ſcourge of Tongues, as dangerous principle, I declare I have in ſome meaſure deſired to know and follow the Truth, but in obe<g ref="char:EOLhyphen"/>dience to his Commands, and fear, and hope of glory, though with much weakneſs. I am <hi>Presbyterian</hi> in my judgment, however lookt upon by men, in declaring my thoughts, owning a Reforma<g ref="char:EOLhyphen"/>tion-work, carried on by our Fathers, the ſhorter and larger Cate<g ref="char:EOLhyphen"/>chiſms, national and ſolemn League and Covenant; I own all the
+<pb n="3" facs="tcp:176202:2"/>
+               <!-- PDF PAGE 84 -->Teſtimonies of our Worthy Sufferers, with all other Declarations, Excommunications. As alſo I pray at the writing hereof, that the Lord open their eyes, give them repentance that are within the election of Grace; and that the Lord may ratifie in Heaven, what his ſervants hath done on Earth, according to his Will, and giving teſtimony againſt the curſed Prelates, as inſtruments driving on the Council, and bloody Soldiers to all oppreſſion, and bloodſhed done againſt the woful indulgence, who has received, or ſhall ſtrengthen their hands in pleading for it, being Favorities: they have broken the divided people of God, more than former Perſecution againſt lukewarm unfaithful Miniſters; and profeſſors falling from their firſt love, pulling down that which was firſt builded. As alſo the <hi>ceſſe,</hi> and bounding with Gods enemies: As alſo Oppreſſion, Ty<g ref="char:EOLhyphen"/>rany, Robbing of Gods People, eſpecially <hi>Glencairne, Hallyards,</hi> whoſe Names ſhould be recorded to generations ſucceeding, as thoſe who has ruin'd the Widow and Fatherleſs, and laid wait againſt the Righteous, and put many to beggary, againſt thoſe who have forfeited their right, which they now claim to that Supremacy: ſetting up adulterous wretches in Chriſts room, who thinks to wrong our Lord, but will be too heavy for them, though all the Lord-Prelates and Indulged joyn hand to hold up, down ſhall they come who wears that Crown: And ſince by them I am proclaimed a Rebel, I diſown them Trayterous to my holy Lord and Chriſt. But let me intreat any who deſires mercy, to forſake thoſe wicked ways, and fall in love with God through Chriſt as the only peace-maker, for there is Judgments coming on the Land, and all your peace with men will not keep you from the dreadful wrath of God, ſlighting the Goſpel, Covenant-breaking, Perjury, Idolatry, Profanity, Apoſtaſie, Treacherous abominations, that all ranks are guilty of, in welcoming this bloody perſon with a draught of our blood, as formerly with Five of our Brethren. I bleſs the Lord, I have ſatisfaction in owning his deſpis'd way, for which I depone my life, in drawing my heart after him, and made me happily willing. I intreat you all ſeekers of his face, to labour for more tenderneſs and watchfulneſs over your ways, there be looking on us for our halting in Gods way; O for help from him till the day break! O to hide our ſelves, to ſhut our mouth and
+<pb facs="tcp:176202:3"/>
+               <!-- PDF PAGE 85 -->
+               <pb n="4" facs="tcp:176202:4"/>
+               <!-- PDF PAGE 86 -->be ſilent! the Lord hath rubbed ſhame on all faces, becauſe of up<g ref="char:EOLhyphen"/>ſitting in duty, publick and private: I think God is contending with us. O dear friends, all ye that deſire to be kept carefully through<g ref="char:EOLhyphen"/>out theſe tribulations, and alſo aſtoniſhing like diſpenſations; forſake not your Chriſtian ſociety, wherein ſo much of the power and pre<g ref="char:EOLhyphen"/>ſence of God hath been ſeen among thoſe who have met together; it is felt and found in the midſt of them, out of love and zeal to pour out their hearts for him, and before him, converſing with one another. I think the upſetting of this duty, is a ſad token <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>od is leaving the Land, as any that I ſee<g ref="char:punc">▪</g> and therefore I not only ex<g ref="char:EOLhyphen"/>hort you to this duty, as a dying man, but charge you, as ye will be anſwerable at the great day, with fear, love and zeal to God, his glory before your eyes, and love to Chriſt <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be the prin<g ref="char:EOLhyphen"/>cipal motive in all other duties <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſtumble of Chriſts way for what we are ſuffering, for all the ſt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ps of <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> is made eaſie to me throughout <gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>plain <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> keep the word of his patience, thoſe he wi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> keep <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of tempta<g ref="char:EOLhyphen"/>tion. Labour to keep up thoſe field-meeting<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, wherein my ſoul has been refreſh'd: Let it be your work to keep patience, whatev<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r ye meet with from enemies, or reproaches from pretended friends, who will be found ſecret heart-enemies to God. This I leave to <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>u my laſt advice, and <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God for wha<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s done to my ſoul, and <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his way he hath taken in <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Land of Praiſes. I ſhall ſing the ſweet<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Song throughout all the ages of eternity, and never ha<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e an <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> for if ye knew what I meet with of his love and preſence, whic<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> would be given a look to time, and bid it be gone that I may Marry my b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt beloved. Now I take my farewell of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll friends relations, e<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ly enjoyments, and all cr<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ted <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. Welcome Lord Jeſus, to thy hands I commit my Spirit.</p>
+            <closer>
+               <signed>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> STEWART.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>Alexander K<gap reason="illegible" extent="6+ letters">
+                     <desc>••••••…</desc>
+                  </gap>,</hi> 1681.</p>
+            <pb n="4" facs="tcp:176202:5"/>
+            <!-- PDF PAGE 87 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="4" facs="tcp:176202:6"/>
+            <!-- PDF PAGE 88 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
